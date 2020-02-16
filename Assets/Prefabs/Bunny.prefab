@@ -46,7 +46,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colourMaterialIndex: 2
   species: 4
-  matTest: {fileID: 2100000, guid: 2c423ba3ec69b4461a99ca939a93b4ac, type: 2}
+  material: {fileID: 2100000, guid: 0e27191982d3a4c009146d1cb7557207, type: 2}
   coord:
     x: 0
     y: 0
